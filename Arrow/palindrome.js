@@ -1,0 +1,1 @@
+//Return all the palindromes in an array
